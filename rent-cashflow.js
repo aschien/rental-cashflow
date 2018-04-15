@@ -1,5 +1,6 @@
 /*
-This is a Google Apps Script function for use in Google sheets. It takes the input from a TENANCY II rent roll from Yardi, and outputs the rental cash flow for each tenant on a separate line.
+This is a Google Apps Script function for use in Google sheets. It takes input from Yardi rent roll (Tenancy II format), 
+and outputs the rental cash flow for each tenant on a separate line.
 Dependencies: moment.js
 */
 //
